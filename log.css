@@ -1,0 +1,8 @@
+.gradient-custom 
+{
+background: linear-gradient(to right, rgb(800,90,16), rgb(110, 124, 10))
+}
+.form-select
+{
+ width: 2px;
+}
